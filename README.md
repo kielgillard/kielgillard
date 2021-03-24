@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Kiel 👋
+
+- ✝️ I am a Roman Catholic.
+- 👨‍👩‍👧‍👦 I have an incredible wife and two children. 
+- 📱I know a thing or two about iOS & macOS development. 
+- 🤔 I like to learn and think about things.
+- 💌 I am trying to be better and appreciate honest, constructive feedback.
+- 🗣 My name is [pronouced "Kyle"](https://www.howtopronounce.com/kyle) — rhymes with smile (or bile!).
 
 <!--
 **kielgillard/kielgillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
